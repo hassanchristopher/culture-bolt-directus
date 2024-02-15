@@ -1,0 +1,315 @@
+repo_name: hassanchristopher/culture-bolt-directus
+report_id: ebbb81978ae5021bb3fefb7b61298ef9
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-15T20:57:04+00:00'
+requested_by: gatsby-cloud[bot]
+provider: github
+branch: master
+detected_tools_count: 20
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/hassanchristopher/culture-bolt-directus
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/hassanchristopher/culture-bolt-directus
+  detection_source: Repo Metadata
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/hassanchristopher/culture-bolt-directus/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: gatsby-cloud[bot]
+  last_updated_on: 2020-08-24 00:52:38.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hassanchristopher/culture-bolt-directus
+  detection_source: Repo Metadata
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/hassanchristopher/culture-bolt-directus/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: gatsby-cloud[bot]
+  last_updated_on: 2020-08-24 00:52:38.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/hassanchristopher/culture-bolt-directus/blob/master/yarn.lock
+  detection_source: yarn.lock
+  last_updated_by: gatsby-cloud[bot]
+  last_updated_on: 2020-08-24 00:52:38.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/hassanchristopher/culture-bolt-directus/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: gatsby-cloud[bot]
+  last_updated_on: 2020-08-24 00:52:38.000000000 Z
+- name: Google Analytics
+  description: Enterprise-class web analytics.
+  website_url: http://www.google.com/analytics
+  open_source: false
+  hosted_saas: false
+  category: Analytics
+  sub_category: General Analytics
+  image_url: https://img.stackshare.io/service/64/cU74ahCn_400x400.jpg
+  detection_source_url: https://github.com/hassanchristopher/culture-bolt-directus/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: gatsby-cloud[bot]
+  last_updated_on: 2020-08-24 00:52:38.000000000 Z
+- name: Gatsby
+  description: Free, open source framework for building blazing fast websites and
+    apps with React
+  website_url: https://www.gatsbyjs.org
+  version: 2.24.47
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Static Site Generators
+  image_url: https://img.stackshare.io/service/5472/default_189db484e0770a6101c6a70f0ef0172bc0f8de37.png
+  detection_source_url: https://github.com/hassanchristopher/culture-bolt-directus/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: gatsby-cloud[bot]
+  last_updated_on: 2020-08-24 00:52:38.000000000 Z
+- name: Prism
+  description: An extensible syntax highlighter, built with modern web standards
+  website_url: https://prismjs.com/
+  version: 1.21.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10010/Screen_Shot_2012-07-31_at_21.57.03__400x400.png
+  detection_source_url: https://github.com/hassanchristopher/culture-bolt-directus/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: gatsby-cloud[bot]
+  last_updated_on: 2020-08-24 00:52:38.000000000 Z
+- name: Typography
+  description: The visual art of creating written words
+  website_url: http://www.typography.com/
+  open_source: false
+  hosted_saas: false
+  category: Design
+  sub_category: Fonts
+  image_url: https://img.stackshare.io/service/1900/qZCU31OW_400x400.jpg
+  detection_source_url: https://github.com/hassanchristopher/culture-bolt-directus/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: gatsby-cloud[bot]
+  last_updated_on: 2020-08-24 00:52:38.000000000 Z
+- name: gatsby-image
+  description: Lazy-loading React image component with optional support for the blur-up
+    effect
+  package_url: https://www.npmjs.com/gatsby-image
+  version: 2.4.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18081/image.png
+  detection_source_url: https://github.com/hassanchristopher/culture-bolt-directus/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: gatsby-cloud[bot]
+  last_updated_on: 2020-08-24 00:52:38.000000000 Z
+- name: gatsby-plugin-react-helmet
+  description: Manage document head data with react-helmet
+  package_url: https://www.npmjs.com/gatsby-plugin-react-helmet
+  version: 3.3.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17532/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
+  detection_source_url: https://github.com/hassanchristopher/culture-bolt-directus/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: gatsby-cloud[bot]
+  last_updated_on: 2020-08-24 00:52:38.000000000 Z
+- name: gatsby-plugin-sharp
+  description: Wrapper of the Sharp image manipulation library for Gatsby plugins
+  package_url: https://www.npmjs.com/gatsby-plugin-sharp
+  version: 2.6.27
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17786/default_a53af9d6b5a4c8c6e8d5f8494d76a8d2efd3e660.png
+  detection_source_url: https://github.com/hassanchristopher/culture-bolt-directus/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: gatsby-cloud[bot]
+  last_updated_on: 2020-08-24 00:52:38.000000000 Z
+  vulnerabilities:
+  - name: Path traversal vulnerability in gatsby-plugin-sharp
+    cve_id: CVE-2023-30548
+    cve_url: https://github.com/advisories/GHSA-h2pm-378c-pcxx
+    detected_date: Apr 21
+    severity: moderate
+    first_patched: 4.25.1
+- name: gatsby-source-filesystem
+  description: Gatsby plugin which parses files within a directory for further parsing
+    by other plugins
+  package_url: https://www.npmjs.com/gatsby-source-filesystem
+  version: 2.3.24
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17100/default_1dbf402c11ef653fcaedc84e608a244e30ebfb87.png
+  detection_source_url: https://github.com/hassanchristopher/culture-bolt-directus/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: gatsby-cloud[bot]
+  last_updated_on: 2020-08-24 00:52:38.000000000 Z
+- name: gatsby-transformer-remark
+  description: Gatsby transformer plugin for Markdown using the Remark library and
+    ecosystem
+  package_url: https://www.npmjs.com/gatsby-transformer-remark
+  version: 2.8.28
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18647/default_3eb5180fb08eb9c684c6269a642bfab3a16bcf1d.png
+  detection_source_url: https://github.com/hassanchristopher/culture-bolt-directus/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: gatsby-cloud[bot]
+  last_updated_on: 2020-08-24 00:52:38.000000000 Z
+  vulnerabilities:
+  - name: gatsby-transformer-remark has possible unsanitized JavaScript code injection
+    cve_id: CVE-2023-22491
+    cve_url: https://github.com/advisories/GHSA-7ch4-rr99-cqcw
+    detected_date: Jan 12
+    severity: high
+    first_patched: 5.25.1
+- name: gatsby-transformer-sharp
+  description: Gatsby transformer plugin for images using Sharp
+  package_url: https://www.npmjs.com/gatsby-transformer-sharp
+  version: 2.5.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18094/image.png
+  detection_source_url: https://github.com/hassanchristopher/culture-bolt-directus/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: gatsby-cloud[bot]
+  last_updated_on: 2020-08-24 00:52:38.000000000 Z
+- name: prismjs
+  description: Lightweight, robust, elegant syntax highlighting
+  package_url: https://www.npmjs.com/prismjs
+  version: 1.21.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16351/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/hassanchristopher/culture-bolt-directus/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: gatsby-cloud[bot]
+  last_updated_on: 2020-08-24 00:52:38.000000000 Z
+  vulnerabilities:
+  - name: Cross-site Scripting in Prism
+    cve_id: CVE-2022-23647
+    cve_url: https://github.com/advisories/GHSA-3949-f494-cm99
+    detected_date: Feb 26
+    severity: high
+    first_patched: 1.27.0
+  - name: Denial of service in prismjs
+    cve_id: CVE-2021-23341
+    cve_url: https://github.com/advisories/GHSA-h4hr-7fg3-h35w
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.23.0
+  - name: Regular Expression Denial of Service (ReDoS) in Prism
+    cve_id: CVE-2021-32723
+    cve_url: https://github.com/advisories/GHSA-gj77-59wh-66hg
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.24.0
+  - name: prismjs Regular Expression Denial of Service vulnerability
+    cve_id: CVE-2021-3801
+    cve_url: https://github.com/advisories/GHSA-hqhp-5p83-hx96
+    detected_date: Sep 21
+    severity: moderate
+    first_patched: 1.25.0
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/hassanchristopher/culture-bolt-directus/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: gatsby-cloud[bot]
+  last_updated_on: 2020-08-24 00:52:38.000000000 Z
+- name: react-helmet
+  description: A document head manager for React
+  package_url: https://www.npmjs.com/react-helmet
+  version: 5.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16513/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/hassanchristopher/culture-bolt-directus/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: gatsby-cloud[bot]
+  last_updated_on: 2020-08-24 00:52:38.000000000 Z
